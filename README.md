@@ -5,6 +5,12 @@
 
 This Traffic Monitoring Web Application is designed to scrape live traffic data from public URLs, predict vehicle counts using the YOLOv8 object detection model, and dynamically update traffic information on an interactive map. The application provides real-time insights into traffic congestion across various locations, displayed on a clean and user-friendly web interface.
 
+## Demo Video
+<video width="320" height="480" controls>
+  <source src="Demo/LiveTrafficMonitoring.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **Real-time Traffic Data**: Scrapes images from public traffic cameras.
